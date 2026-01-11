@@ -4,6 +4,12 @@ Welcome to Gopher's Gorgeous Lasagna on Exercism's Go Track.
 If you need help running the tests or submitting your code, check out `HELP.md`.
 If you get stuck on the exercise, check out `HINTS.md`, but try and solve it without using those first :)
 
+## Running the Tests
+```go test```
+
+## Running the Program
+```go run cmd/main.go```
+
 ## Introduction
 
 [Go](https://golang.org) is a statically typed, compiled programming language.
